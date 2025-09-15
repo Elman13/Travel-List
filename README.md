@@ -29,12 +29,15 @@ Here is a preview of the app:
    ```bash
    git clone https://github.com/Elman13/Travel-List.git
 2. Navigate to the project directory:
+   ```bash
    cd Travel-List
    
 3. Install dependencies:
+   ``` bash
    npm install
    
-4.Start the development server:
+4. Start the development server:
+   ``` bash
    npm start
 
 ---
